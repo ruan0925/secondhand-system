@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "aasad",
+        "price": 52.0,
+        "category": "78",
+        "owner": "1"
+    },
+    {
+        "id": 2,
+        "name": "墨镜",
+        "price": 3.0,
+        "category": "日用品",
+        "owner": "111"
+    },
+    {
+        "id": 3,
+        "name": "矿泉水",
+        "price": 2.0,
+        "category": "食品",
+        "owner": "xu"
+    },
+    {
+        "id": 4,
+        "name": "电动车",
+        "price": 1000.0,
+        "category": "代步产品",
+        "owner": "rx"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "user": "1",
+        "product": "aasad",
+        "price": 52.0
+    },
+    {
+        "user": "111",
+        "product": "墨镜",
+        "price": 3.0
+    },
+    {
+        "user": "xu",
+        "product": "矿泉水",
+        "price": 2.0
+    },
+    {
+        "user": "rx",
+        "product": "矿泉水",
+        "price": 2.0
+    }
+]
