@@ -15,7 +15,7 @@
 
 ## 部署运行
 1. 安装依赖：`pip install streamlit`
-2. 项目启动：`streamlit run main.py`
+2. 项目启动：`streamlit run app.py`
 
 ## 小组分工
 A：项目总负责人，需求梳理与项目整合
